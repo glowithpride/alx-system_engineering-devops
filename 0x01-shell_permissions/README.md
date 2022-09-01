@@ -1,1 +1,1 @@
-the script temporarily changes the user
+the scrit print the current username of the current user
