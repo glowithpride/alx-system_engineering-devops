@@ -1,1 +1,1 @@
-a script that changes the owner of the file
+the script to crate a empty file
