@@ -1,1 +1,1 @@
-the script to crate a empty file
+the script that gives permission
