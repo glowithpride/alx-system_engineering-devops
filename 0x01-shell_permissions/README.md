@@ -1,1 +1,1 @@
-the script that gives permission
+script that gives a group permission
