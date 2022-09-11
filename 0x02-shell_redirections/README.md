@@ -1,1 +1,1 @@
-script that prints a new file
+a script that displays a confused smiley
