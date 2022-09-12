@@ -1,1 +1,1 @@
-nomorejs
+directories
