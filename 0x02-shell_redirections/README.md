@@ -1,1 +1,1 @@
-dislay file
+dispaly content
