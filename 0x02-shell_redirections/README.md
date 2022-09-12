@@ -1,1 +1,1 @@
-last ten lines
+first 10 lines
