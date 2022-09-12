@@ -1,1 +1,1 @@
-script says a confused smilry
+dislay file
